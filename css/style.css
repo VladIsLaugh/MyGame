@@ -1,0 +1,20 @@
+#wrapper{
+	margin-left: 20px;
+	width: 400px;
+	height: 400px;
+	border: #000 solid 1px;
+	position: relative;
+}
+
+#box{
+	background-color: red;
+	height: 100px;
+	width: 100px;
+	position: absolute;
+	left: 0;
+	top: 0;
+}
+
+#btn{
+	margin: 30px;
+}
